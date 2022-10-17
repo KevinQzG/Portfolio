@@ -24,6 +24,9 @@ Practice project of a web page that contains my portfolio
 
   git clone https://github.com/KevinQzG/Portfolio.git
   
+## Video
+https://youtu.be/lyhhtKW54-A
+  
   
 ## Authors
 
