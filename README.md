@@ -1,6 +1,6 @@
 <h1 align="center">Portfolio</h1>
 
-Practice project of a web page that contains my portfolio
+Practice project of a web page that contains my portfolio:
 
 ## Features
 - 🏠 Home session where the logo is next to my name, information, repositories and social networks.
