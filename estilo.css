@@ -483,6 +483,7 @@ html{
     background-color: #252A2E;
     color: #252A2E;
     padding: 50px 20px;
+    user-select: none;
 }
 .portfolio .contenido-seccion{
     max-width: 1100px;
